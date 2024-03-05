@@ -1,2 +1,1 @@
-# Akhila-DevOps-Training
-training purpose
+# Akhila-DevOps
